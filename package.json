@@ -1,0 +1,12 @@
+{
+  "name": "neutrino-ts-loader",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-loader": "^3.5.0"
+  },
+  "peerDependencies": {
+    "neutrino": "^8.3.0"
+  }
+}
